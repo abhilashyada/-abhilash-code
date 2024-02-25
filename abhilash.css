@@ -1,0 +1,101 @@
+.head {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+.about-me {
+    padding: 15px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.my-img {
+    height: 30vh;
+}
+.img {
+    text-align: center;
+}
+.education {
+    padding: 15px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.headings {
+     font-weight: bold;
+     text-decoration: underline;
+}
+.education-headings  {
+    font-size: 20px;
+    margin: 12px;
+    text-decoration: underline;
+}
+.gap {
+    margin: 12px;
+}
+.back-color {
+    background-color: #F8B195;
+}
+.details-heading {
+    font-size: 20px;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 5px;
+    border-color: green;
+    font-weight: bold;
+}
+.personal {
+    padding: 15px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.personal-headings  {
+    font-size: 20px;
+    margin: 12px;
+    text-decoration: underline;
+}
+.second-row {
+    margin: 20px;
+}
+.web-development {
+    padding: 15px;
+    margin: 80px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+.language {
+    padding: 15px;
+    margin: 80px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+.chegg {
+    padding: 15px;
+    margin: 80px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+.project {
+    padding: 15px;
+    margin: 80px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+.headings1 {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 12px;
+}
+.logo {
+    width: 4vw;
+    height: 4vh;
+    border-radius: 70px;
+}
+.backgroud {
+    background-color: #000000;
+    color: #ffffff;
+}
+.address {
+    padding: 15px;
+    margin: 20px;
+    border-radius: 5px;
+}
